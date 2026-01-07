@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Tue Dec 23 15:34:47 2025
+# Process ID: 45492
+# Current directory: D:/IEP/Day_3_IEP/Day_3/Day_3.runs/design_1_auto_pc_1_synth_1
+# Command line: vivado.exe -log design_1_auto_pc_1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_auto_pc_1.tcl
+# Log file: D:/IEP/Day_3_IEP/Day_3/Day_3.runs/design_1_auto_pc_1_synth_1/design_1_auto_pc_1.vds
+# Journal file: D:/IEP/Day_3_IEP/Day_3/Day_3.runs/design_1_auto_pc_1_synth_1\vivado.jou
+# Running On: DESKTOP-OO0S615, OS: Windows, CPU Frequency: 2995 MHz, CPU Physical cores: 4, Host memory: 16844 MB
+#-----------------------------------------------------------
+source design_1_auto_pc_1.tcl -notrace

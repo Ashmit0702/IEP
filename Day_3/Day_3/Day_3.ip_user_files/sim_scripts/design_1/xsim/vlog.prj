@@ -1,0 +1,30 @@
+verilog xil_defaultlib --include "D:/Xilinx/Vivado/2022.1/data/xilinx_vip/include" --include "../../../../Day_3.gen/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../Day_3.gen/sources_1/bd/design_1/ipshared/5765/hdl" --include "../../../../Day_3.gen/sources_1/bd/design_1/ipshared/6376/hdl/verilog" \
+"../../../bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_0/sim/design_1_auto_pc_0.v" \
+"../../../bd/design_1/ip/design_1_xbar_0/sim/design_1_xbar_0.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_1/sim/design_1_auto_pc_1.v" \
+"../../../../Day_3.gen/sources_1/bd/design_1/ipshared/6376/hdl/verilog/cm_top_cm_top_Pipeline_1.v" \
+"../../../../Day_3.gen/sources_1/bd/design_1/ipshared/6376/hdl/verilog/cm_top_cm_top_Pipeline_VITIS_LOOP_15_1.v" \
+"../../../../Day_3.gen/sources_1/bd/design_1/ipshared/6376/hdl/verilog/cm_top_cm_top_Pipeline_VITIS_LOOP_22_2.v" \
+"../../../../Day_3.gen/sources_1/bd/design_1/ipshared/6376/hdl/verilog/cm_top_cm_top_Pipeline_VITIS_LOOP_22_2_fft_tx_imag_ROM_AUTO_1R.v" \
+"../../../../Day_3.gen/sources_1/bd/design_1/ipshared/6376/hdl/verilog/cm_top_cm_top_Pipeline_VITIS_LOOP_22_2_fft_tx_real_ROM_AUTO_1R.v" \
+"../../../../Day_3.gen/sources_1/bd/design_1/ipshared/6376/hdl/verilog/cm_top_fadd_32ns_32ns_32_5_full_dsp_1.v" \
+"../../../../Day_3.gen/sources_1/bd/design_1/ipshared/6376/hdl/verilog/cm_top_flow_control_loop_pipe_sequential_init.v" \
+"../../../../Day_3.gen/sources_1/bd/design_1/ipshared/6376/hdl/verilog/cm_top_fmul_32ns_32ns_32_4_max_dsp_1.v" \
+"../../../../Day_3.gen/sources_1/bd/design_1/ipshared/6376/hdl/verilog/cm_top_fsub_32ns_32ns_32_5_full_dsp_1.v" \
+"../../../../Day_3.gen/sources_1/bd/design_1/ipshared/6376/hdl/verilog/cm_top_hls_deadlock_idx0_monitor.v" \
+"../../../../Day_3.gen/sources_1/bd/design_1/ipshared/6376/hdl/verilog/cm_top_input_M_value_RAM_AUTO_1R1W.v" \
+"../../../../Day_3.gen/sources_1/bd/design_1/ipshared/6376/hdl/verilog/cm_top_regslice_both.v" \
+"../../../../Day_3.gen/sources_1/bd/design_1/ipshared/6376/hdl/verilog/cm_top.v" \
+"../../../../Day_3.gen/sources_1/bd/design_1/ipshared/6376/hdl/ip/cm_top_fadd_32ns_32ns_32_5_full_dsp_1_ip.v" \
+"../../../../Day_3.gen/sources_1/bd/design_1/ipshared/6376/hdl/ip/cm_top_fmul_32ns_32ns_32_4_max_dsp_1_ip.v" \
+"../../../../Day_3.gen/sources_1/bd/design_1/ipshared/6376/hdl/ip/cm_top_fsub_32ns_32ns_32_5_full_dsp_1_ip.v" \
+"../../../bd/design_1/ip/design_1_cm_top_0_0/sim/design_1_cm_top_0_0.v" \
+"../../../bd/design_1/ip/design_1_xlconstant_0_0/sim/design_1_xlconstant_0_0.v" \
+"../../../bd/design_1/ip/design_1_xlconstant_0_1/sim/design_1_xlconstant_0_1.v" \
+"../../../bd/design_1/ip/design_1_xlconstant_0_2/sim/design_1_xlconstant_0_2.v" \
+"../../../bd/design_1/sim/design_1.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
