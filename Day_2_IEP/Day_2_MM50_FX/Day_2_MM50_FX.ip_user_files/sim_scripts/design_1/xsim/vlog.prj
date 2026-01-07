@@ -1,0 +1,28 @@
+verilog xil_defaultlib --include "D:/Xilinx/Vivado/2022.1/data/xilinx_vip/include" --include "../../../../Day_2_MM50_FX.gen/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../Day_2_MM50_FX.gen/sources_1/bd/design_1/ipshared/5765/hdl" --include "../../../../Day_2_MM50_FX.gen/sources_1/bd/design_1/ipshared/332e/hdl/verilog" \
+"../../../bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v" \
+"../../../bd/design_1/ip/design_1_xbar_0/sim/design_1_xbar_0.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_0/sim/design_1_auto_pc_0.v" \
+"../../../bd/design_1/ip/design_1_auto_us_0/sim/design_1_auto_us_0.v" \
+"../../../bd/design_1/ip/design_1_auto_us_1/sim/design_1_auto_us_1.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_1/sim/design_1_auto_pc_1.v" \
+"../../../../Day_2_MM50_FX.gen/sources_1/bd/design_1/ipshared/332e/hdl/verilog/matrixmul_FXP_flow_control_loop_pipe_sequential_init.v" \
+"../../../../Day_2_MM50_FX.gen/sources_1/bd/design_1/ipshared/332e/hdl/verilog/matrixmul_FXP_fpext_32ns_64_2_no_dsp_1.v" \
+"../../../../Day_2_MM50_FX.gen/sources_1/bd/design_1/ipshared/332e/hdl/verilog/matrixmul_FXP_hls_deadlock_idx0_monitor.v" \
+"../../../../Day_2_MM50_FX.gen/sources_1/bd/design_1/ipshared/332e/hdl/verilog/matrixmul_FXP_input_A_V_RAM_1WNR_AUTO_1R1W.v" \
+"../../../../Day_2_MM50_FX.gen/sources_1/bd/design_1/ipshared/332e/hdl/verilog/matrixmul_FXP_mac_muladd_6ns_6ns_6ns_12_4_1.v" \
+"../../../../Day_2_MM50_FX.gen/sources_1/bd/design_1/ipshared/332e/hdl/verilog/matrixmul_FXP_matrixmul_FXP_Pipeline_MM_L1_MM_L2.v" \
+"../../../../Day_2_MM50_FX.gen/sources_1/bd/design_1/ipshared/332e/hdl/verilog/matrixmul_FXP_matrixmul_FXP_Pipeline_RA_L1_RA_L2.v" \
+"../../../../Day_2_MM50_FX.gen/sources_1/bd/design_1/ipshared/332e/hdl/verilog/matrixmul_FXP_matrixmul_FXP_Pipeline_RB_L1_RB_L2.v" \
+"../../../../Day_2_MM50_FX.gen/sources_1/bd/design_1/ipshared/332e/hdl/verilog/matrixmul_FXP_matrixmul_FXP_Pipeline_WC_L1_WC_L2.v" \
+"../../../../Day_2_MM50_FX.gen/sources_1/bd/design_1/ipshared/332e/hdl/verilog/matrixmul_FXP_mul_6ns_7ns_12_1_1.v" \
+"../../../../Day_2_MM50_FX.gen/sources_1/bd/design_1/ipshared/332e/hdl/verilog/matrixmul_FXP_mul_24s_24s_37_1_1.v" \
+"../../../../Day_2_MM50_FX.gen/sources_1/bd/design_1/ipshared/332e/hdl/verilog/matrixmul_FXP_output_C_V_RAM_AUTO_1R1W.v" \
+"../../../../Day_2_MM50_FX.gen/sources_1/bd/design_1/ipshared/332e/hdl/verilog/matrixmul_FXP_regslice_both.v" \
+"../../../../Day_2_MM50_FX.gen/sources_1/bd/design_1/ipshared/332e/hdl/verilog/matrixmul_FXP.v" \
+"../../../../Day_2_MM50_FX.gen/sources_1/bd/design_1/ipshared/332e/hdl/ip/matrixmul_FXP_fpext_32ns_64_2_no_dsp_1_ip.v" \
+"../../../bd/design_1/ip/design_1_matrixmul_FXP_0_0/sim/design_1_matrixmul_FXP_0_0.v" \
+"../../../bd/design_1/sim/design_1.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
